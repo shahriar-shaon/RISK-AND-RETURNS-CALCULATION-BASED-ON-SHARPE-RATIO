@@ -10,11 +10,16 @@ When analyzing investment opportunities, it's important to consider not only the
 
 
 
- The dataset contains information on the amount of debt owed by developing countries in various categories (in USD). The data will look for answers to questions like:
+ The dataset contains information on the . The data will look for answers to questions like:
  
-1. What is the total amount of debt that is owed by the countries listed in the dataset?
-2. Which country owns the maximum amount of debt and what does that amount look like?
-3. What is the average amount of debt owed by countries across different debt indicators?
+1. calculate daily stock_data returns AND calculate daily benchmark_data returns?
+2. Calculating Excess Returns for Amazon and Facebook vs. S&P 500?
+3. The Average Difference in Daily Returns Stocks vs S&P 500?
+4. Standard Deviation of the Return Difference ?
 
 
 ## GOAL
+ See and compare the data.
+ Calculate the data.
+ For better understanding visiluaze the data.
+ Help to make a decesion to choice the best perforiming Stock.
